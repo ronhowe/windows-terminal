@@ -47,9 +47,9 @@
     {
         "defaults": 
         {
-            "backgroundImage": "C:\\Users\\ronhowe\\OneDrive\\Documents\\Star Wars\\scomp link.gif",
-            "backgroundImageOpacity": 0.074999999999999997,
-            "backgroundImageStretchMode": "fill",
+            // "backgroundImage": "C:\\Users\\ronhowe\\OneDrive\\Documents\\Star Wars\\scomp link.gif",
+            // "backgroundImageOpacity": 0.074999999999999997,
+            // "backgroundImageStretchMode": "fill",
             "fontFace": "Cascadia Code PL",
             "fontSize": 25,
             "foreground": "#CCCCCC"
